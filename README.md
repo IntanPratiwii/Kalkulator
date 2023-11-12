@@ -1,2 +1,3 @@
 # Kalkulator
-ini aplikasi kalkulator untuk menghitung matematika sederhana
+ini aplikasi kalkulator xyz untuk menghitung matematika sederhana
+Created by Intan
